@@ -2,3 +2,4 @@ ipdb
 pudb
 web-pdb
 #pdbpp
+requests
